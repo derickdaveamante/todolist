@@ -1,0 +1,12 @@
+body{
+	background-color: #808080;
+}
+#box{
+	background-color: #ffffff;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 500px;
+	margin-right: 500px;
+	border: 1px solid #ff0000;
+	border-radius: 20px;
+}
